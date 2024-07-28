@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Nsans Regular";
+  src: url("./assets//NetflixSans-Regular.woff2");
+}
+
+body {
+  font-family: "Nsans Regular" "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+* {
+  font-family: "Nsans Regular" "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
